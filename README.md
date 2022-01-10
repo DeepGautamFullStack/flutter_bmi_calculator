@@ -16,3 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 # flutter_bmi_calculator
 # flutter_bmi_calculator
+# bmi_calculator
