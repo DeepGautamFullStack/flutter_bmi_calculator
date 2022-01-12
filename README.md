@@ -30,4 +30,5 @@ Landing screen:
 
 Result screens:
 ![1641995736536](https://user-images.githubusercontent.com/27567403/149154778-6ce74e8c-4cec-4d43-90a4-772d2248c63e.jpg)
-![1641995736536 (1)](https://user-images.githubusercontent.com/27567403/149154792-d69f3c08-48a5-4a2e-b3c7-04b437e981cf.jpg)
+
+![1641995736523](https://user-images.githubusercontent.com/27567403/149155079-b826d9f7-e6b8-425a-b4dc-9c06f7e8f4f7.jpg)
